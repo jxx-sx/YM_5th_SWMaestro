@@ -4,21 +4,21 @@
 
 | 회차 | 강의내용 | 강의자 | 강의자료 링크 |
 |------|----------|--------|---------------|
-| 1차시 | - | [김석희](https://github.com/pogery-foggy) | [1차시_컴퓨팅사고.pdf](./1st/1차시_컴퓨팅사고.pdf) |
-| 2차시 | - | [김석희](https://github.com/pogery-foggy) | [2차시.pdf](./2nd/2차시.pdf) |
-| 3차시 | - | [김석희](https://github.com/pogery-foggy) | [3차시.pdf](./3rd/3차시.pdf) |
-| 4차시 | - | [김석희](https://github.com/pogery-foggy) | [4차시.pdf](./4th/4차시.pdf) |
-| 5차시 | - | [김석희](https://github.com/pogery-foggy) | [5차시.pdf](./5th/5차시.pdf) |
-| 6차시 | - | [김석희](https://github.com/pogery-foggy) | [6차시.pdf](./6th/6차시.pdf) |
-| 7차시 | - | [김석희](https://github.com/pogery-foggy) | [7차시.pdf](./7th/7차시.pdf) |
-| 8차시 | - | [김석희](https://github.com/pogery-foggy) | [8차시.pdf](./8th/8차시.pdf) |
-| 9차시 | - | [김석희](https://github.com/pogery-foggy) | [9차시.pdf](./9th/9차시.pdf) |
-| 10차시 | - | [김석희](https://github.com/pogery-foggy) | [10차시.pdf](./10th/10차시.pdf) |
-| 11차시 | - | [김석희](https://github.com/pogery-foggy) | [11차시.pdf](./11th/11차시.pdf) |
-| 12차시 | - | [김석희](https://github.com/pogery-foggy) | [12차시.pdf](./12th/12차시.pdf) |
-| 13차시 | - | [김석희](https://github.com/pogery-foggy) | [13차시-클래스.pdf](./13th/13차시-클래스.pdf) |
-| 14차시 | - | [김석희](https://github.com/pogery-foggy) | [14차시.pdf](./14th/14차시.pdf) |
-| 15차시 | - | [김석희](https://github.com/pogery-foggy) | [15차시.pdf](./15th/15차시.pdf) |
+| 1차시 | 컴퓨팅 사고 | [김석희](https://github.com/pogery-foggy) | [1차시_컴퓨팅사고.pdf](./1st/1차시_컴퓨팅사고.pdf) |
+| 2차시 | String, 연산자, 제어문 | [김석희](https://github.com/pogery-foggy) | [2차시.pdf](./2nd/2차시.pdf) |
+| 3차시 | 반복문, 배열 | [김석희](https://github.com/pogery-foggy) | [3차시.pdf](./3rd/3차시.pdf) |
+| 4차시 | 형변환, 빠른 입출력, 자료형 | [김석희](https://github.com/pogery-foggy) | [4차시.pdf](./4th/4차시.pdf) |
+| 5차시 | 함수, 재귀 | [김석희](https://github.com/pogery-foggy) | [5차시.pdf](./5th/5차시.pdf) |
+| 6차시 | 포인터 | [김석희](https://github.com/pogery-foggy) | [6차시.pdf](./6th/6차시.pdf) |
+| 7차시 | 구조체와 포인터 | [김석희](https://github.com/pogery-foggy) | [7차시.pdf](./7th/7차시.pdf) |
+| 8차시 | 문자열 | [김석희](https://github.com/pogery-foggy) | [8차시.pdf](./8th/8차시.pdf) |
+| 9차시 | 복습 | [김석희](https://github.com/pogery-foggy) | [9차시.pdf](./9th/9차시.pdf) |
+| 10차시 | 시간복잡도, 브루트포스 | [김석희](https://github.com/pogery-foggy) | [10차시.pdf](./10th/10차시.pdf) |
+| 11차시 | 비트마스크 | [김석희](https://github.com/pogery-foggy) | [11차시.pdf](./11th/11차시.pdf) |
+| 12차시 | 정렬(1) | [김석희](https://github.com/pogery-foggy) | [12차시.pdf](./12th/12차시.pdf) |
+| 13차시 | 클래스 | [김석희](https://github.com/pogery-foggy) | [13차시-클래스.pdf](./13th/13차시-클래스.pdf) |
+| 14차시 | 벡터 | [김석희](https://github.com/pogery-foggy) | [14차시.pdf](./14th/14차시.pdf) |
+| 15차시 | 정렬(2) | [김석희](https://github.com/pogery-foggy) | [15차시.pdf](./15th/15차시.pdf) |
 | 16차시 | Array, Vector, Linked List | [황재상](https://github.com/jxx-sx) | [16th.pdf](./16th/16th.pdf) |
 | 17차시 | Python in PS, Pointer, Stack | [황재상](https://github.com/jxx-sx) | [17th.pdf](./17th/17th.pdf) |
 | 18차시 | Bitmasking  | [황재상](https://github.com/jxx-sx) | [18th.pdf](./18th/18th.pdf) |
